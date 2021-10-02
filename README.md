@@ -38,6 +38,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 * [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021)
 * [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021): a guide on contributing to open source as well as a list of beginner friendly projects
+* [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021): beginner friendly contributions
 * [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021): algorithms and projects
 * [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas): compilation of possible coding projects to make
 * [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): compilatoin of programming websites
@@ -50,6 +51,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 ### Machine Learning
 * [gdscjgec/ML-Gallery](https://github.com/gdscjgec/ML-Gallery): Various classification, regression, clustering, neural networks, and deep learning algorithms
+* [academic/awesome-datascience](https://github.com/academic/awesome-datascience): collection of data science 
 
 ### Themes
 #### VSCode
