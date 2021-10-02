@@ -1,4 +1,6 @@
 # Hacktoberfest-2021-Repos
+A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos can be found [here](/blacklist/)
+
 ## Table of Contents
 ### Topics
 * [Algorithms](#algorithms)
