@@ -1,5 +1,5 @@
 # Hacktoberfest-2021-Repos
-A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos can be found [here](./blacklist/)
+A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos can be found [here](./blacklist/).
 
 ## Table of Contents
 ### Topics
@@ -28,6 +28,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas): compilation of possible coding projects to make
 * [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): compilatoin of programming websites
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): compilation of programming ebooks
+* [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev): list of swag developers can get
 
 ### Linux
 * [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook): a guidebook for Linux commands
