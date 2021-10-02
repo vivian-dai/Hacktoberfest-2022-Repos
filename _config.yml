@@ -2,3 +2,4 @@ title: Hacktoberfest 2021 Repos
 description: A list of valid Hacktoberfest 2021 repositories
 
 theme: jekyll-theme-slate
+markdown: GFM
