@@ -1,4 +1,6 @@
 title: Hacktoberfest 2021 Repos
 description: A list of valid Hacktoberfest 2021 repositories
+baseurl: "/Hacktoberfest-2021-Repos"
+url: "https://vivian-dai.github.io"
 
 theme: jekyll-theme-slate
