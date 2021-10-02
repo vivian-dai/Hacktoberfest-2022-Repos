@@ -3,31 +3,28 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 ## Table of Contents
 ### Topics
-- [Hacktoberfest-2021-Repos](#hacktoberfest-2021-repos)
-  - [Table of Contents](#table-of-contents)
-    - [Topics](#topics)
-    - [Launguages](#launguages)
-  - [Repo By Topic](#repo-by-topic)
-    - [Algorithms and Data Structures](#algorithms-and-data-structures)
-    - [General](#general)
-    - [Linux](#linux)
-    - [Machine Learning](#machine-learning)
-    - [Themes](#themes)
-      - [VSCode](#vscode)
-    - [Web Dev](#web-dev)
-  - [Repo By Launguage](#repo-by-launguage)
-    - [CPP (C++)](#cpp-c)
-    - [HTML](#html)
-    - [Java](#java)
-    - [Python](#python)
-    - [TypeScript](#typescript)
+<details>
+<summary>Topics</summary>
+
+* [Algorithms and Data Structures](#algorithms-and-data-structures)
+* [General](#general)
+* [Linux](#linux)
+* [Themes](#themes)
+  * [VSCode](#vscode)
+* [Machine Learning](#machine-learning)
+* [Web Dev](#web-dev)
+</details>
 
 ### Launguages
+<details>
+<summary>Languages</summary>
+
 * [C++](#cpp-c)
 * [HTML](#html)
 * [Java](#java)
 * [Python](#python)
 * [TypeScript](#typescript)
+</details>
 
 ## Repo By Topic
 ### Algorithms and Data Structures
@@ -36,6 +33,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [codedecks-in](https://github.com/codedecks-in): solutions to various problems on different different online jduges and interview prep sites, most repos can count towards Hacktoberfest
 * [TheAlgorithms](https://github.com/TheAlgorithms): algorithm implementations in various different languages, most repos can count towards Hacktoberfest
 * [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms): various algorithms and data structures as well as solution code to some CP platforms
+* [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021): algorithms in various languages
 
 ### General
 * [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021)
@@ -45,6 +43,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): compilatoin of programming websites
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): compilation of programming ebooks
 * [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev): list of swag developers can get
+* [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021): various programs in various languages
 
 ### Linux
 * [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook): a guidebook for Linux commands
@@ -59,20 +58,25 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### Web Dev
 * [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021): beginner friendly repo where you can add your card to the site
 * [avinash201199/stopwatch](https://github.com/avinash201199/stopwatch): stopwatch with HTML, CSS, JS
+* [mykartadmin/TailwindReactBoilerplate](https://github.com/mykartadmin/TailwindReactBoilerplate): startup setup for tailwind and react
 
 ## Repo By Launguage
 ### CPP (C++)
 * [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp): self explanatory title
+* [iamAnki/CPP-Programs-](https://github.com/iamAnki/CPP-Programs-): C++ algorithms/programs
 
 ### HTML
 * [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021): beginner friendly repo where you can add your card to the site
 
 ### Java
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): shows Java's design patterns
+* [ashwiniswag/Personal-Diary](https://github.com/ashwiniswag/Personal-Diary): Java Android diary app
+* [jvm-coder/Java_Programs](https://github.com/jvm-coder/Java_Programs): various Java programs
 
 ### Python
 * [pyGuru123/HackPython-21](https://github.com/pyGuru123/HackPython-21): various different projects and algorithms in Python including web scraping, tkinter, data analysis, and more
 * [IEEE-VIT/concy-bot](https://github.com/IEEE-VIT/concy-bot): Python Discord bot
+* [shashwat211/spaceShooter](https://github.com/shashwat211/spaceShooter): classic spaceshooter game in Python
 
 ### TypeScript
 * [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app)
