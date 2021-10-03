@@ -7,6 +7,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 <summary>Topics</summary>
 
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
+* [Bots](#bots)
 * [General](#general)
 * [Linux](#linux)
 * [Themes](#themes)
@@ -34,6 +35,9 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [TheAlgorithms](https://github.com/TheAlgorithms): algorithm implementations in various different languages, most repos can count towards Hacktoberfest
 * [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms): various algorithms and data structures as well as solution code to some CP platforms
 * [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021): algorithms in various languages
+
+### Bots
+* [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot): an open source multipurpose Discord bot written in Discord.js
 
 ### General
 * [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021)
@@ -74,6 +78,9 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): shows Java's design patterns
 * [ashwiniswag/Personal-Diary](https://github.com/ashwiniswag/Personal-Diary): Java Android diary app
 * [jvm-coder/Java_Programs](https://github.com/jvm-coder/Java_Programs): various Java programs
+
+### JavaScript
+* [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot): an open source multipurpose Discord bot written in Discord.js)
 
 ### Python
 * [pyGuru123/HackPython-21](https://github.com/pyGuru123/HackPython-21): various different projects and algorithms in Python including web scraping, tkinter, data analysis, and more
