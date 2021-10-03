@@ -28,6 +28,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [JavaScript](#javascript)
 * [Python](#python)
 * [TypeScript](#typescript)
+* [Haskell](#haskell)
 </details>
 
 ## Repo By Topic
@@ -40,6 +41,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021): algorithms in various languages
 * [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms): algorithms and datastructures for competitive programming, HackerRank and Leetcode solutions
 * [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos): sorting algorithms in various languages
+* [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns): patterns in various languages
 
 ### Bots
 * [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot): an open source multipurpose Discord bot written in Discord.js
@@ -120,3 +122,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 ### TypeScript
 * [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app)
+
+### Haskell
+* [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell): learn Haskell with pull requests
