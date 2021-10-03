@@ -38,6 +38,8 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [TheAlgorithms](https://github.com/TheAlgorithms): algorithm implementations in various different languages, most repos can count towards Hacktoberfest
 * [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms): various algorithms and data structures as well as solution code to some CP platforms
 * [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021): algorithms in various languages
+* [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms): algorithms and datastructures for competitive programming, HackerRank and Leetcode solutions
+* [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos): sorting algorithms in various languages
 
 ### Bots
 * [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot): an open source multipurpose Discord bot written in Discord.js
@@ -48,6 +50,12 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021): algorithms and projects
 * [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas): compilation of possible coding projects to make
 * [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021): various programs in various languages
+* [Magnesiaworld/Hacktoberfest_2021](https://github.com/Magnesiaworld/Hacktoberfest_2021): random code in Python, C++, HTML, CSS
+* [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD): creative ways to wish someone happy birthday with code
+* [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted): algorithms and projects in any language
+* [Abhinandan323/Programming-notes](https://github.com/Abhinandan323/Programming-notes): various different algorithms and small projects in C++, C, Java, and Python
+* [5h0bh4nk/FizzBuzz-Hacktoberfest-2021](https://github.com/5h0bh4nk/FizzBuzz-Hacktoberfest-2021): fizzbuzz is various different languages
+* [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub): recursive solutions to any problem in any language
 
 ### Github Profile
 * [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph): a Github README profile contributions graph
@@ -79,6 +87,10 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021): beginner friendly repo where you can add your card to the site
 * [avinash201199/stopwatch](https://github.com/avinash201199/stopwatch): stopwatch with HTML, CSS, JS
 * [mykartadmin/TailwindReactBoilerplate](https://github.com/mykartadmin/TailwindReactBoilerplate): startup setup for tailwind and react
+* [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish): snippets of HTML, CSS, JS things
+* [mrbyyn/simple-web-project-collection](https://github.com/mrbyyn/simple-web-project-collection): various web projects
+* [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf): cool website styling trick
+* [anurag-crypto/Awesome-web-components](https://github.com/anurag-crypto/Awesome-web-components): fun frontend stuff
 
 ## Repo By Launguage
 ### CPP (C++)
@@ -87,6 +99,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 ### HTML
 * [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021): beginner friendly repo where you can add your card to the site
+* [kokonior/HTML-Projects](https://github.com/kokonior/HTML-Projects): various small HTML projects
 
 ### Java
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns): shows Java's design patterns
@@ -95,12 +108,15 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 ### JavaScript
 * [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot): an open source multipurpose Discord bot written in Discord.js
+* [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects): various projects and code snippets in JavaScript
+* [kokonior/NodeJS-Projects](https://github.com/kokonior/NodeJS-Projects): projects and code snippets in Node
 
 ### Python
 * [pyGuru123/HackPython-21](https://github.com/pyGuru123/HackPython-21): various different projects and algorithms in Python including web scraping, Tkinter, data analysis, and more
 * [IEEE-VIT/concy-bot](https://github.com/IEEE-VIT/concy-bot): a Python Discord bot
 * [shashwat211/spaceShooter](https://github.com/shashwat211/spaceShooter): classic space shooter game in Python
 * [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects): various projects and snippets of code in Python
+* [HowkMii/ProgrammingProblem](https://github.com/HowkMii/ProgrammingProblem): solving coding and interview problems in Python
 
 ### TypeScript
 * [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app)
