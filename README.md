@@ -56,6 +56,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [Abhinandan323/Programming-notes](https://github.com/Abhinandan323/Programming-notes): various different algorithms and small projects in C++, C, Java, and Python
 * [5h0bh4nk/FizzBuzz-Hacktoberfest-2021](https://github.com/5h0bh4nk/FizzBuzz-Hacktoberfest-2021): fizzbuzz is various different languages
 * [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub): recursive solutions to any problem in any language
+* [many-passwords](https://github.com/many-passwords): aimts to collect default passwords of various devices and sites
 
 ### Github Profile
 * [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph): a Github README profile contributions graph
