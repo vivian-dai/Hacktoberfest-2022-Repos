@@ -23,6 +23,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [C++](#cpp-c)
 * [HTML](#html)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Python](#python)
 * [TypeScript](#typescript)
 </details>
