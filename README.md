@@ -9,10 +9,12 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
 * [Bots](#bots)
 * [General](#general)
+* [Github Profile](#github-profile)
 * [Linux](#linux)
 * [Themes](#themes)
   * [VSCode](#vscode)
 * [Machine Learning](#machine-learning)
+* [Resources](#resources)
 * [Web Dev](#web-dev)
 </details>
 
@@ -42,21 +44,32 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 ### General
 * [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021)
-* [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021): a guide on contributing to open source as well as a list of beginner friendly projects
 * [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021): beginner friendly contributions
 * [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021): algorithms and projects
 * [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas): compilation of possible coding projects to make
-* [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): compilatoin of programming websites
-* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): compilation of programming ebooks
-* [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev): list of swag developers can get
 * [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021): various programs in various languages
+
+### Github Profile
+* [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph): a Github README profile contributions graph
+* [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg): a typing SVG for Github README profiles
+* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): gives a Github profile summary, most used languages, repo cards, and wakatime cards
+* [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats): displays current and longest Github activity streak
+* [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme): updates Github README to show most recent Github activity
+* [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow): updates Github README to show latest blog posts from various sources
 
 ### Linux
 * [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook): a guidebook for Linux commands
 
 ### Machine Learning
 * [gdscjgec/ML-Gallery](https://github.com/gdscjgec/ML-Gallery): Various classification, regression, clustering, neural networks, and deep learning algorithms
-* [academic/awesome-datascience](https://github.com/academic/awesome-datascience): collection of data science 
+* [academic/awesome-datascience](https://github.com/academic/awesome-datascience): collection of data science
+
+### Resources
+* [public-apis/public-apis](https://github.com/public-apis/public-apis): a list of public APIs
+* [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021): a guide on contributing to open source as well as a list of beginner friendly projects
+* [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev): list of swag developers can get
+* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): compilation of programming ebooks
+* [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): compilation of programming websites
 
 ### Themes
 #### VSCode
@@ -87,6 +100,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [pyGuru123/HackPython-21](https://github.com/pyGuru123/HackPython-21): various different projects and algorithms in Python including web scraping, tkinter, data analysis, and more
 * [IEEE-VIT/concy-bot](https://github.com/IEEE-VIT/concy-bot): Python Discord bot
 * [shashwat211/spaceShooter](https://github.com/shashwat211/spaceShooter): classic spaceshooter game in Python
+* [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects): various projects and snippets of code in Python
 
 ### TypeScript
 * [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app)
