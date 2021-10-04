@@ -60,6 +60,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub): recursive solutions to any problem in any language
 * [many-passwords](https://github.com/many-passwords): aimts to collect default passwords of various devices and sites
 * [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation): character name generation
+* [Learn-Write-Repeat/Hacktoberfest-Contribution](https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution): contribution can be from any topic like your mini-project, algorithms, solution to coding problem, etc. 
 
 ### Github Profile
 * [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph): a Github README profile contributions graph
