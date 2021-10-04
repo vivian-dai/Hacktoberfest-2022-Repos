@@ -33,15 +33,18 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 ## Repo By Topic
 ### Algorithms and Data Structures
-* [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos): algorithms on AI, CP, crypto, quantum, and more in C, C++, Java, JS, Swift, Python, Go, and more
-* [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms): search, sort, math, crypto, geometry, graph theory, DP, DS, and more types of algorithms in various languages
-* [codedecks-in](https://github.com/codedecks-in): solutions to various problems on different different online judges and interview prep sites, most repos can count towards Hacktoberfest
-* [TheAlgorithms](https://github.com/TheAlgorithms): algorithm implementations in various different languages, most repos can count towards Hacktoberfest
-* [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms): various algorithms and data structures as well as solution code to some CP platforms
-* [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021): algorithms in various languages
-* [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms): algorithms and datastructures for competitive programming, HackerRank and Leetcode solutions
-* [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos): sorting algorithms in various languages
-* [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns): patterns in various languages
+
+| | |
+|--|--|
+| [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) | algorithms on AI, CP, crypto, quantum, and more in C, C++, Java, JS, Swift, Python, Go, and more | 
+| [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) | search, sort, math, crypto, geometry, graph theory, DP, DS, and more types of algorithms in various languages | 
+| [codedecks-in](https://github.com/codedecks-in) | solutions to various problems on different different online judges and interview prep sites, most repos can count towards Hacktoberfest | 
+| [TheAlgorithms](https://github.com/TheAlgorithms) | algorithm implementations in various different languages, most repos can count towards Hacktoberfest | 
+| [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms) | various algorithms and data structures as well as solution code to some CP platforms | 
+| [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021) | algorithms in various languages | 
+| [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms) | algorithms and datastructures for competitive programming, HackerRank and Leetcode solutions | 
+| [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos) | sorting algorithms in various languages | 
+| [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
 
 ### Bots
 * [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot): an open source multipurpose Discord bot written in Discord.js
