@@ -95,6 +95,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [mrbyyn/simple-web-project-collection](https://github.com/mrbyyn/simple-web-project-collection): various web projects
 * [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf): cool website styling trick
 * [anurag-crypto/Awesome-web-components](https://github.com/anurag-crypto/Awesome-web-components): fun frontend stuff
+* [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates): coding frontend templates using HTML, CSS, JS.
 
 ## Repo By Launguage
 ### CPP (C++)
