@@ -44,6 +44,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms) | algorithms and datastructures for competitive programming, HackerRank and Leetcode solutions | 
 | [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos) | sorting algorithms in various languages | 
 | [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
+| [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
 
 ### Bots
 | | |
@@ -67,6 +68,9 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [many-passwords](https://github.com/many-passwords) | aimts to collect default passwords of various devices and sites | 
 | [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation) | character name generation | 
 | [Learn-Write-Repeat/Hacktoberfest-Contribution](https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution) | contribution can be from any topic like your mini-project, algorithms, solution to coding problem, etc. | 
+| [PraSarOG/Hacktoberfest-21](https://github.com/PraSarOG/Hacktoberfest-21) | any program in any programming language |
+| [eraaxit/emoticon-suggestor](https://github.com/eraaxit/emoticon-suggestor) | suggests emojis based on a word (not machine learning) |
+| [MarcosDaNight/Hacktoberfest-Baby-Steps](https://github.com/MarcosDaNight/Hacktoberfest-Baby-Steps) | hello word, funny code, or any code in any language |
 
 ### Github Profile
 | | |
