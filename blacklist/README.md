@@ -9,5 +9,8 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [ALLINONE4298/Hacktober2021](https://github.com/ALLINONE4298/Hacktober2021)
 * [namishkhanna/hacktoberfest2021](https://github.com/namishkhanna/hacktoberfest2021)
 * [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
+* [j-kon/hacktoberfest20](https://github.com/j-kon/hacktoberfest20)
+* [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+
 
 
