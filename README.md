@@ -56,7 +56,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 |--|--|
 | [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request) | |
 | [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021) | 
-| [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021) | beginner friendly contributions | 
 | [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021) | algorithms and projects | 
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make | 
 | [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021) | various programs in various languages | 
@@ -131,7 +130,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### HTML
 | | |
 |--|--|
-| [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021) | beginner friendly repo where you can add your card to the site |
 | [kokonior/HTML-Projects](https://github.com/kokonior/HTML-Projects) | various small HTML projects |
 
 ### Java
