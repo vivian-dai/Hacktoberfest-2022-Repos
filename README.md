@@ -54,7 +54,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 | | |
 |--|--|
-| [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request) |
+| [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request) | |
 | [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021) | 
 | [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021) | beginner friendly contributions | 
 | [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021) | algorithms and projects | 
