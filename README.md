@@ -69,6 +69,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation) | character name generation | 
 | [Learn-Write-Repeat/Hacktoberfest-Contribution](https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution) | contribution can be from any topic like your mini-project, algorithms, solution to coding problem, etc. | 
 | [PraSarOG/Hacktoberfest-21](https://github.com/PraSarOG/Hacktoberfest-21) | any program in any programming language |
+| [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [eraaxit/emoticon-suggestor](https://github.com/eraaxit/emoticon-suggestor) | suggests emojis based on a word (not machine learning) |
 | [MarcosDaNight/Hacktoberfest-Baby-Steps](https://github.com/MarcosDaNight/Hacktoberfest-Baby-Steps) | hello word, funny code, or any code in any language |
 
