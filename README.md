@@ -22,13 +22,14 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 <details>
 <summary>Languages</summary>
 
+* [C](#c)
 * [C++](#cpp-c)
+* [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [TypeScript](#typescript)
-* [Haskell](#haskell)
 </details>
 
 ## Repo By Topic
@@ -40,11 +41,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [codedecks-in](https://github.com/codedecks-in) | solutions to various problems on different different online judges and interview prep sites, most repos can count towards Hacktoberfest | 
 | [TheAlgorithms](https://github.com/TheAlgorithms) | algorithm implementations in various different languages, most repos can count towards Hacktoberfest | 
 | [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms) | various algorithms and data structures as well as solution code to some CP platforms | 
-| [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021) | algorithms in various languages | 
 | [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms) | algorithms and datastructures for competitive programming, HackerRank and Leetcode solutions | 
 | [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos) | sorting algorithms in various languages | 
 | [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
 | [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
+| [CrackerSuman/Algorithms](https://github.com/CrackerSuman/Algorithms) | small algorithms repository |
 
 ### Bots
 | | |
@@ -54,7 +55,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 | | |
 |--|--|
-| [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021) |  
 | [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021) | algorithms and projects | 
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make | 
 | [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021) | various programs in various languages | 
@@ -68,8 +68,12 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation) | character name generation | 
 | [Learn-Write-Repeat/Hacktoberfest-Contribution](https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution) | contribution can be from any topic like your mini-project, algorithms, solution to coding problem, etc. | 
 | [PraSarOG/Hacktoberfest-21](https://github.com/PraSarOG/Hacktoberfest-21) | any program in any programming language |
+| [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [eraaxit/emoticon-suggestor](https://github.com/eraaxit/emoticon-suggestor) | suggests emojis based on a word (not machine learning) |
 | [MarcosDaNight/Hacktoberfest-Baby-Steps](https://github.com/MarcosDaNight/Hacktoberfest-Baby-Steps) | hello word, funny code, or any code in any language |
+| [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021) | code (or not code, ie. content or designs) in Arduino, miscellaneous programming things, and machine learning |
+| [bigyanic/Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes) | simple programs in various languages (has suggestions of program ideas) |
+| [Htrap1862/Hacktoberfest2021](https://github.com/Htrap1862/Hacktoberfest2021) | commit poems, programs, literally anything |
 
 ### Github Profile
 | | |
@@ -106,11 +110,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | | |
 |--|--|
 | [abhishek-dhnma/Vinent-Van-VsCode-theme](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme) | a VSCode theme |
+| [musm/min-tomorrow-theme](https://github.com/musm/min-tomorrow-theme) | |
 
 ### Web Dev
 | | |
 |--|--|
-| [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021) | beginner friendly repo where you can add your card to the site | 
 | [avinash201199/stopwatch](https://github.com/avinash201199/stopwatch) | stopwatch with HTML, CSS, JS | 
 | [mykartadmin/TailwindReactBoilerplate](https://github.com/mykartadmin/TailwindReactBoilerplate) | startup setup for tailwind and react | 
 | [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish) | snippets of HTML, CSS, JS things | 
@@ -118,8 +122,15 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf) | cool website styling trick | 
 | [anurag-crypto/Awesome-web-components](https://github.com/anurag-crypto/Awesome-web-components) | fun frontend stuff | 
 | [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) | coding frontend templates using HTML, CSS, JS. |
+| [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
+| [shubham-2611/Hacker-News-Clone](https://github.com/shubham-2611/Hacker-News-Clone) | clone of HackerNews using the HackerNews API and React |
 
 ## Repo By Launguage
+### C
+| | |
+|--|--|
+| [divyanshugarg36/c-programs](https://github.com/divyanshugarg36/c-programs) | various programs in C |
+
 ### CPP (C++)
 | | |
 |--|--|
@@ -127,10 +138,14 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [iamAnki/CPP-Programs-](https://github.com/iamAnki/CPP-Programs-) | C++ algorithms/programs |
 | [fauziajalal/city-guessing-game](https://github.com/fauziajalal/city-guessing-game) | A game in which computer will select a random Indian city name and you have to guess next city name based on the last letter of current city name. |
 
+### Haskell
+| | |
+|--|--|
+| [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) | learn Haskell with pull requests |
+
 ### HTML
 | | |
 |--|--|
-| [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021) | beginner friendly repo where you can add your card to the site |
 | [kokonior/HTML-Projects](https://github.com/kokonior/HTML-Projects) | various small HTML projects |
 | [RitwikSachdeva/csneeds](https://github.com/RitwikSachdeva/csneeds) | various projects to contribute |
 | [Linux-User-Group/hacktoberfest2021-HTML](https://github.com/Linux-User-Group/hacktoberfest2021-HTML) | good repository to learn |
@@ -161,8 +176,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects) | various projects and snippets of code in Python | 
 | [HowkMii/ProgrammingProblem](https://github.com/HowkMii/ProgrammingProblem) | solving coding and interview problems in Python |
 | [Chelsea31/xbox-scraper](https://github.com/Chelsea31/xbox-scraper) | simple web scraper to find xbox series x availability across shopping websites |
-| [abhishek5670/adventure-game](https://github.com/abhishek5670/adventure-game) | this repository for beginners who have started programming earlier |
-| [RKNpy/Hactoberfest2021-discord.py-bot-challenge](https://github.com/RKNpy/Hactoberfest2021-discord.py-bot-challenge) | This bot is made using discord.py, cogs are being implemented slowly and this repository act as a way to learn all the concepts in discord.py. |
 
 ### TypeScript
 | | |
@@ -170,7 +183,3 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
-### Haskell
-| | |
-|--|--|
-| [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) | learn Haskell with pull requests |
