@@ -22,13 +22,14 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 <details>
 <summary>Languages</summary>
 
+* [C](#c)
 * [C++](#cpp-c)
+* [Haskell](#haskell)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [TypeScript](#typescript)
-* [Haskell](#haskell)
 </details>
 
 ## Repo By Topic
@@ -44,6 +45,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos) | sorting algorithms in various languages | 
 | [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
 | [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
+| [CrackerSuman/Algorithms](https://github.com/CrackerSuman/Algorithms) | small algorithms repository |
 
 ### Bots
 | | |
@@ -69,6 +71,9 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [eraaxit/emoticon-suggestor](https://github.com/eraaxit/emoticon-suggestor) | suggests emojis based on a word (not machine learning) |
 | [MarcosDaNight/Hacktoberfest-Baby-Steps](https://github.com/MarcosDaNight/Hacktoberfest-Baby-Steps) | hello word, funny code, or any code in any language |
+| [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021) | code (or not code, ie. content or designs) in Arduino, miscellaneous programming things, and machine learning |
+| [bigyanic/Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes) | simple programs in various languages (has suggestions of program ideas) |
+| [Htrap1862/Hacktoberfest2021](https://github.com/Htrap1862/Hacktoberfest2021) | commit poems, programs, literally anything |
 
 ### Github Profile
 | | |
@@ -105,6 +110,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | | |
 |--|--|
 | [abhishek-dhnma/Vinent-Van-VsCode-theme](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme) | a VSCode theme |
+| [musm/min-tomorrow-theme](https://github.com/musm/min-tomorrow-theme) | |
 
 ### Web Dev
 | | |
@@ -116,13 +122,25 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf) | cool website styling trick | 
 | [anurag-crypto/Awesome-web-components](https://github.com/anurag-crypto/Awesome-web-components) | fun frontend stuff | 
 | [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) | coding frontend templates using HTML, CSS, JS. |
+| [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
+| [shubham-2611/Hacker-News-Clone](https://github.com/shubham-2611/Hacker-News-Clone) | clone of HackerNews using the HackerNews API and React |
 
 ## Repo By Launguage
+### C
+| | |
+|--|--|
+| [divyanshugarg36/c-programs](https://github.com/divyanshugarg36/c-programs) | various programs in C |
+
 ### CPP (C++)
 | | |
 |--|--|
 | [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp) | self explanatory title |
 | [iamAnki/CPP-Programs-](https://github.com/iamAnki/CPP-Programs-) | C++ algorithms/programs |
+
+### Haskell
+| | |
+|--|--|
+| [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) | learn Haskell with pull requests |
 
 ### HTML
 | | |
@@ -159,7 +177,3 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 |--|--|
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 
-### Haskell
-| | |
-|--|--|
-| [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) | learn Haskell with pull requests |
