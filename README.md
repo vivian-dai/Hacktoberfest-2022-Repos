@@ -136,6 +136,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 |--|--|
 | [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp) | self explanatory title |
 | [iamAnki/CPP-Programs-](https://github.com/iamAnki/CPP-Programs-) | C++ algorithms/programs |
+| [fauziajalal/city-guessing-game](https://github.com/fauziajalal/city-guessing-game) | A game in which computer will select a random Indian city name and you have to guess next city name based on the last letter of current city name. |
 
 ### Haskell
 | | |
@@ -146,6 +147,8 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | | |
 |--|--|
 | [kokonior/HTML-Projects](https://github.com/kokonior/HTML-Projects) | various small HTML projects |
+| [RitwikSachdeva/csneeds](https://github.com/RitwikSachdeva/csneeds) | various projects to contribute |
+| [Linux-User-Group/hacktoberfest2021-HTML](https://github.com/Linux-User-Group/hacktoberfest2021-HTML) | good repository to learn |
 
 ### Java
 | | |
@@ -153,6 +156,9 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | shows Java's design patterns | 
 | [ashwiniswag/Personal-Diary](https://github.com/ashwiniswag/Personal-Diary) | Java Android diary app | 
 | [jvm-coder/Java_Programs](https://github.com/jvm-coder/Java_Programs) | various Java programs |
+| [atulanand26/myclassroom](https://github.com/atulanand26/myclassroom) | work on project to make that more useful |
+| [decode11/decode-1-rep](https://github.com/decode11/decode-1-rep) | decoding repo to contribute |
+
 
 ### JavaScript
 | | |
@@ -170,10 +176,10 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects) | various projects and snippets of code in Python | 
 | [HowkMii/ProgrammingProblem](https://github.com/HowkMii/ProgrammingProblem) | solving coding and interview problems in Python |
 | [Chelsea31/xbox-scraper](https://github.com/Chelsea31/xbox-scraper) | simple web scraper to find xbox series x availability across shopping websites |
-| [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts) | various Python scripts for various things |
 
 ### TypeScript
 | | |
 |--|--|
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
+| [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
