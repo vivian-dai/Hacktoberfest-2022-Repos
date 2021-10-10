@@ -53,8 +53,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 | | |
 |--|--|
-| [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request) | |
-| [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021) | 
 | [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021) | algorithms and projects | 
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make | 
 | [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021) | various programs in various languages | 
@@ -111,7 +109,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### Web Dev
 | | |
 |--|--|
-| [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021) | beginner friendly repo where you can add your card to the site | 
 | [avinash201199/stopwatch](https://github.com/avinash201199/stopwatch) | stopwatch with HTML, CSS, JS | 
 | [mykartadmin/TailwindReactBoilerplate](https://github.com/mykartadmin/TailwindReactBoilerplate) | startup setup for tailwind and react | 
 | [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish) | snippets of HTML, CSS, JS things | 
@@ -155,6 +152,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects) | various projects and snippets of code in Python | 
 | [HowkMii/ProgrammingProblem](https://github.com/HowkMii/ProgrammingProblem) | solving coding and interview problems in Python |
 | [Chelsea31/xbox-scraper](https://github.com/Chelsea31/xbox-scraper) | simple web scraper to find xbox series x availability across shopping websites |
+| [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts) | various Python scripts for various things |
 
 ### TypeScript
 | | |
