@@ -54,8 +54,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 | | |
 |--|--|
-| [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021) | 
-| [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021) | beginner friendly contributions | 
+| [open-for-everyone/hacktoberfest2021](https://github.com/open-for-everyone/hacktoberfest2021) |  
 | [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021) | algorithms and projects | 
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make | 
 | [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021) | various programs in various languages | 
@@ -169,6 +168,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | | |
 |--|--|
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
+| [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
 ### Haskell
 | | |
