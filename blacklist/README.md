@@ -22,3 +22,4 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [SRDeveloperVishal/hacktoberfest2021](https://github.com/SRDeveloperVishal/hacktoberfest2021)
 * [nitin-1926/Hacktober-Festt](https://github.com/nitin-1926/Hacktober-Festt)
 * [Showndarya/Hacktoberfest](https://github.com/Showndarya/Hacktoberfest)
+* [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms)

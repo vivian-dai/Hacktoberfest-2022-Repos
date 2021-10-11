@@ -41,7 +41,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [codedecks-in](https://github.com/codedecks-in) | solutions to various problems on different different online judges and interview prep sites, most repos can count towards Hacktoberfest | 
 | [TheAlgorithms](https://github.com/TheAlgorithms) | algorithm implementations in various different languages, most repos can count towards Hacktoberfest | 
 | [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms) | various algorithms and data structures as well as solution code to some CP platforms | 
-| [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms) | algorithms and datastructures for competitive programming, HackerRank and Leetcode solutions | 
 | [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos) | sorting algorithms in various languages | 
 | [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
 | [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
