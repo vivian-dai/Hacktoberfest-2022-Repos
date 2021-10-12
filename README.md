@@ -74,6 +74,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021) | code (or not code, ie. content or designs) in Arduino, miscellaneous programming things, and machine learning |
 | [bigyanic/Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes) | simple programs in various languages (has suggestions of program ideas) |
 | [Htrap1862/Hacktoberfest2021](https://github.com/Htrap1862/Hacktoberfest2021) | commit poems, programs, literally anything |
+| [varunherlekar/lets-do-it](https://github.com/varunherlekar/lets-do-it) | Live HTML, CSS & Js Todo web-app |
 
 ### Github Profile
 | | |
@@ -104,6 +105,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) | a list of swag that developers can get | 
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | compilation of programming e-books | 
 | [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | compilation of programming websites |
+| [ kaydee001/learn-programming-resources](https://github.com/kaydee001/learn-programming-resources) | compilation of learning to program resources |
 
 ### Themes
 #### VSCode
