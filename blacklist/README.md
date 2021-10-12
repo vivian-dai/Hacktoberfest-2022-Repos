@@ -24,3 +24,4 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [Showndarya/Hacktoberfest](https://github.com/Showndarya/Hacktoberfest)
 * [mhmzdev/Hacktoberfest-Flutter](https://github.com/mhmzdev/Hacktoberfest-Flutter)
 * [Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms](https://github.com/Anishukla/Hacktoberfest-2021-Data-Structures-and-Algorithms)
+* [edusanketdk /HacktoberFest21] (https://github.com/edusanketdk/HacktoberFest21)
