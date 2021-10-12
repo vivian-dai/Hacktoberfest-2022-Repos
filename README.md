@@ -105,6 +105,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) | a list of swag that developers can get | 
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | compilation of programming e-books | 
 | [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | compilation of programming websites |
+| [ kaydee001/learn-programming-resources](https://github.com/kaydee001/learn-programming-resources) | compilation of learning to program resources |
 
 ### Themes
 #### VSCode
