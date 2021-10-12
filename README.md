@@ -74,6 +74,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021) | code (or not code, ie. content or designs) in Arduino, miscellaneous programming things, and machine learning |
 | [bigyanic/Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes) | simple programs in various languages (has suggestions of program ideas) |
 | [Htrap1862/Hacktoberfest2021](https://github.com/Htrap1862/Hacktoberfest2021) | commit poems, programs, literally anything |
+| [varunherlekar/lets-do-it](https://github.com/varunherlekar/lets-do-it) | Live HTML, CSS & Js Todo web-app |
 
 ### Github Profile
 | | |
