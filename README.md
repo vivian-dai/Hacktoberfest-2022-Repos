@@ -75,6 +75,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [Htrap1862/Hacktoberfest2021](https://github.com/Htrap1862/Hacktoberfest2021) | commit poems, programs, literally anything |
 | [varunherlekar/lets-do-it](https://github.com/varunherlekar/lets-do-it) | Live HTML, CSS & Js Todo web-app |
 | [blogmaker123/Hacktoberfest](https://github.com/blogmaker123/Hacktoberfest) | any program in any language or maintenance |
+| [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 
 ### Github Profile
 | | |
