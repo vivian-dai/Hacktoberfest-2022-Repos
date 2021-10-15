@@ -8,6 +8,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
 * [Bots](#bots)
+* [Games](#games)
 * [General](#general)
 * [Github Profile](#github-profile)
 * [Linux](#linux)
@@ -52,6 +53,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot) | an open source multipurpose Discord bot written in Discord.js |
 | [awsheeshh/Kanna-Chan](https://github.com/awsheeshh/Kanna-Chan) | multipurpose and open source Discord bot (verified) written in Discord.py |
 
+### Games
+| | |
+|--|--|
+| [Alexandria/match-three-game](https://github.com/Alexandria/match-three-game/) | Candycrash clone in js, HTML and CSS with beginner-friendly environment |
+
 ### General
 | | |
 |--|--|
@@ -75,6 +81,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [Htrap1862/Hacktoberfest2021](https://github.com/Htrap1862/Hacktoberfest2021) | commit poems, programs, literally anything |
 | [varunherlekar/lets-do-it](https://github.com/varunherlekar/lets-do-it) | Live HTML, CSS & Js Todo web-app |
 | [blogmaker123/Hacktoberfest](https://github.com/blogmaker123/Hacktoberfest) | any program in any language or maintenance |
+| [utkarsh1311/webdevpractice](https://github.com/utkarsh1311/web-dev-practice) | collection of simple programs created with js, HTML, CSS and more. Open for programming as well as documentation tasks.  |
 | [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 
 ### Github Profile
