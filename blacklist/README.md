@@ -31,4 +31,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [avinash201199/DSA-Questions](https://github.com/avinash201199/DSA-Questions)
 * [aritraroy24/HACKTOBERFEST2021_PATTERN](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
 * [vedant1771/Hactoberfest2021](https://github.com/vedant1771/Hactoberfest2021)
+* [keshavsingh4522/HacktoberFest-2021](https://github.com/keshavsingh4522/HacktoberFest-2021)
+* [fineanmol/Hacktoberfest2021](https://github.com/fineanmol/Hacktoberfest2021)
+* [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
 
