@@ -8,6 +8,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
 * [Bots](#bots)
+* [Games](#games)
 * [General](#general)
 * [Github Profile](#github-profile)
 * [Linux](#linux)
@@ -81,7 +82,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [varunherlekar/lets-do-it](https://github.com/varunherlekar/lets-do-it) | Live HTML, CSS & Js Todo web-app |
 | [blogmaker123/Hacktoberfest](https://github.com/blogmaker123/Hacktoberfest) | any program in any language or maintenance |
 | [utkarsh1311/webdevpractice](https://github.com/utkarsh1311/web-dev-practice) | collection of simple programs created with js, HTML, CSS and more. Open for programming as well as documentation tasks.  |
-
+| [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 
 ### Github Profile
 | | |
