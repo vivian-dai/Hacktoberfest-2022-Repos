@@ -12,4 +12,4 @@
 
 ## Standards
 * If a list is already sorted in a certain way (eg. alphabetical order), make sure to keep the list in the same order when you add an item
-* Take note of where there are spaces in all the other list item
+* Take note of where there are spaces in all the other list's items
