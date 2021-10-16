@@ -133,6 +133,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) | coding frontend templates using HTML, CSS, JS. |
 | [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
 | [shubham-2611/Hacker-News-Clone](https://github.com/shubham-2611/Hacker-News-Clone) | clone of HackerNews using the HackerNews API and React |
+| [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe) | web develop using html, css, JS |
 
 ## Repo By Launguage
 ### C
@@ -185,6 +186,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects) | various projects and snippets of code in Python | 
 | [HowkMii/ProgrammingProblem](https://github.com/HowkMii/ProgrammingProblem) | solving coding and interview problems in Python |
 | [Chelsea31/xbox-scraper](https://github.com/Chelsea31/xbox-scraper) | simple web scraper to find xbox series x availability across shopping websites |
+| [Anjan50/Python](https://github.com/Anjan50/Python) | Various Projects and Scripts |
 
 ### TypeScript
 | | |
