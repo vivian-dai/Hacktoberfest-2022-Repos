@@ -61,8 +61,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 | | |
 |--|--|
-| [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make | 
-| [Amsal1/Hacktoberfest-2021](https://github.com/Amsal1/Hacktoberfest-2021) | various programs in various languages | 
+| [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make |  
 | [Magnesiaworld/Hacktoberfest_2021](https://github.com/Magnesiaworld/Hacktoberfest_2021) | random code in Python, C++, HTML, CSS | 
 | [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) | creative ways to wish someone happy birthday with code | 
 | [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted) | algorithms and projects in any language | 
