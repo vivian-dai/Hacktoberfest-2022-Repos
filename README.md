@@ -141,6 +141,8 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 |--|--|
 | [divyanshugarg36/c-programs](https://github.com/divyanshugarg36/c-programs) | various programs in C |
 
+| [tushar-kumar/MyCodes](https://github.com/tushar-kumar/MyCodes/tree/main/C) | Basic C program that can help |
+
 ### CPP (C++)
 | | |
 |--|--|
