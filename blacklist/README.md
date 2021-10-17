@@ -23,6 +23,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [khagapati-bagh/hacktoberfest2k21](https://github.com/khagapati-bagh/hacktoberfest2k21)
 * [mhmzdev/Hacktoberfest-Flutter](https://github.com/mhmzdev/Hacktoberfest-Flutter)
 * [namishkhanna/hacktoberfest2021](https://github.com/namishkhanna/hacktoberfest2021)
+* [Nguyen17/Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
 * [nitin-1926/Hacktober-Festt](https://github.com/nitin-1926/Hacktober-Festt)
 * [rit-hub/Hacktoberfest-2021](https://github.com/rit-hub/Hacktoberfest-2021)
 * [rjkalash/hacktoberfest2021](https://github.com/rjkalash/hacktoberfest2021)
