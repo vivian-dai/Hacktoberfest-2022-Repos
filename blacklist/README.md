@@ -41,6 +41,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021)
 * [twowaits/make-pull-request](https://github.com/twowaits/make-pull-request)
 * [tarunsinghofficial/HacktoberFest](https://github.com/tarunsinghofficial/HacktoberFest)
+* [thisispratt/hacktoberfest_2021](https://github.com/thisispratt/hacktoberfest_2021)
 * [vedant1771/Hactoberfest2021](https://github.com/vedant1771/Hactoberfest2021)
 * [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
 * [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
