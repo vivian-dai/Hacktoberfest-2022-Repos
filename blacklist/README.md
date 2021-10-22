@@ -13,6 +13,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [BalajiG2000/Code_Dump](https://github.com/BalajiG2000/Code_Dump)
 * [Chandra-Sekhar-Bala/Hacktoberfest](https://github.com/Chandra-Sekhar-Bala/Hacktoberfest)
 * [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+* [DhananjayPorwal/hacktoberfest2021](https://github.com/DhananjayPorwal/hacktoberfest2021)
 * [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
 * [edusanketdk/HacktoberFest21](https://github.com/edusanketdk/HacktoberFest21)
 * [fineanmol/Hacktoberfest2021](https://github.com/fineanmol/Hacktoberfest2021)
