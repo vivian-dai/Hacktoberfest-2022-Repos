@@ -35,6 +35,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [rjkalash/hacktoberfest2021](https://github.com/rjkalash/hacktoberfest2021)
 * [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
 * [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021)
+* [shivaylamba/Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest)
 * [Showndarya/Hacktoberfest](https://github.com/Showndarya/Hacktoberfest)
 * [Sniper7sumit/Hacktoberfest2021](https://github.com/Sniper7sumit/Hacktoberfest2021)
 * [SRDeveloperVishal/hacktoberfest2021](https://github.com/SRDeveloperVishal/hacktoberfest2021)
