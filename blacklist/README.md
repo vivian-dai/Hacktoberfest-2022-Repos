@@ -11,6 +11,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [Astrogeek77/Hacktoberfest_2021](https://github.com/Astrogeek77/Hacktoberfest_2021)
 * [avinash201199/DSA-Questions](https://github.com/avinash201199/DSA-Questions)
 * [BalajiG2000/Code_Dump](https://github.com/BalajiG2000/Code_Dump)
+* [CrackerSuman/Not-a-Excluded-Project](https://github.com/CrackerSuman/Not-a-Excluded-Project)
 * [Chandra-Sekhar-Bala/Hacktoberfest](https://github.com/Chandra-Sekhar-Bala/Hacktoberfest)
 * [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
 * [DhananjayPorwal/hacktoberfest2021](https://github.com/DhananjayPorwal/hacktoberfest2021)
@@ -49,3 +50,4 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
 * [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 * [viralvaghela/hacktoberfest_2021](https://github.com/viralvaghela/hacktoberfest_2021)
+* [yashrajmani/Hacktoberfest2021](https://github.com/yashrajmani/Hacktoberfest2021)
