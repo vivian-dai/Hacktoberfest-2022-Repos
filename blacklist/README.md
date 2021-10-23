@@ -18,6 +18,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [DhananjayPorwal/hacktoberfest2021](https://github.com/dark-cops://github.com/DhananjayPorwal/hacktoberfest2021)
 * [dikshantmali/Hacktoberfest2020-HTML-CSS-WEB](https://github.com/dikshantmali/Hacktoberfest2020-HTML-CSS-WEB)
 * [edusanketdk/HacktoberFest21](https://github.com/edusanketdk/HacktoberFest21)
+* [Faiznurullah/Hacktoberfest2021](https://github.com/Faiznurullah/Hacktoberfest2021)
 * [fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-202)
 * [fineanmol/Hacktoberfest2021](https://github.com/fineanmol/Hacktoberfest2021)
 * [hackison1/Hacktoberfest-2021](https://github.com/hackison1/Hacktoberfest-2021) 
