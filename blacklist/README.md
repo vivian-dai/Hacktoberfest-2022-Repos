@@ -23,6 +23,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [Faiznurullah/Hacktoberfest2021](https://github.com/Faiznurullah/Hacktoberfest2021)
 * [fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-202)
 * [fineanmol/Hacktoberfest2021](https://github.com/fineanmol/Hacktoberfest2021)
+* [Hacktoberfestrepo/hacktoberfest2021](https://github.com/Hacktoberfestrepo/hacktoberfest2021)
 * [hackison1/Hacktoberfest-2021](https://github.com/hackison1/Hacktoberfest-2021) 
 * [heeshala/Hacktoberfest2021-Task1](https://github.com/heeshala/Hacktoberfest2021-Task1)
 * [ishangoyal13/fullstackDevelopment](https://github.com/ishangoyal13/fullstackDevelopment)
