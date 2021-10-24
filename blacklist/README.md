@@ -57,3 +57,4 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 * [viralvaghela/hacktoberfest_2021](https://github.com/viralvaghela/hacktoberfest_2021)
 * [yashrajmani/Hacktoberfest2021](https://github.com/yashrajmani/Hacktoberfest2021)
+* [CrackerSuman/Algorithms](https://github.com/CrackerSuman/Algorithms)
