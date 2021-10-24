@@ -75,7 +75,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [PraSarOG/Hacktoberfest-21](https://github.com/PraSarOG/Hacktoberfest-21) | any program in any programming language |
 | [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [eraaxit/emoticon-suggestor](https://github.com/eraaxit/emoticon-suggestor) | suggests emojis based on a word (not machine learning) |
-| [MarcosDaNight/Hacktoberfest-Baby-Steps](https://github.com/MarcosDaNight/Hacktoberfest-Baby-Steps) | hello word, funny code, or any code in any language |
 | [ishkapoor2000/PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021) | code (or not code, ie. content or designs) in Arduino, miscellaneous programming things, and machine learning |
 | [bigyanic/Hacktoberfest-Simple-Practice-Programmes](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes) | simple programs in various languages (has suggestions of program ideas) |
 | [Htrap1862/Hacktoberfest2021](https://github.com/Htrap1862/Hacktoberfest2021) | commit poems, programs, literally anything |
