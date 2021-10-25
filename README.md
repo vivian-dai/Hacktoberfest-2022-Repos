@@ -83,6 +83,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [utkarsh1311/webdevpractice](https://github.com/utkarsh1311/web-dev-practice) | collection of simple programs created with js, HTML, CSS and more. Open for programming as well as documentation tasks.  |
 | [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 | [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) | A list of animes every developer should watch. |
+| [GDSC-MITADT-Hacktoberfest2021/Hacktoberfest2021](https://github.com/GDSC-MITADT-Hacktoberfest2021/Hacktoberfest2021) | A Repo for CPP,Python, ML and Frontend Projects. |
 
 ### Github Profile
 | | |
