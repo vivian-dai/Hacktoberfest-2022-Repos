@@ -94,6 +94,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | displays current and longest Github activity streak | 
 | [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) | updates Github README to show most recent Github activity | 
 | [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | updates Github README to show latest blog posts from various sources |
+| [FadlieFerdiyansah/UI-Pets](https://github.com/FadlieFerdiyansah/UI-Pets) | UI for pets website |
 
 ### Linux
 | | |
