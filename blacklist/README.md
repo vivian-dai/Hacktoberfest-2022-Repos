@@ -1,5 +1,6 @@
 # Blacklist
 List of excluded repos that are now invalid towards Hacktoberfest pull requests:
+* [abhilashmnair/HacktoberFest2021](https://github.com/abhilashmnair/HacktoberFest2021)
 * [abhpd/hacktoberfest2021](https://github.com/abhpd/hacktoberfest2021)
 * [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
 * [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
