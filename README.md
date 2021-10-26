@@ -84,6 +84,9 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 | [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) | A list of animes every developer should watch. |
 | [GDSC-MITADT-Hacktoberfest2021/Hacktoberfest2021](https://github.com/GDSC-MITADT-Hacktoberfest2021/Hacktoberfest2021) | A Repo for CPP,Python, ML and Frontend Projects. |
+| [mentoriaiac/template-modulo-terraform](https://github.com/mentoriaiac/template-modulo-terraform) | This repository must contain the basic structure for creating a terraform module. |
+| [mentoriaiac/iac-modulo-compute-gcp](https://github.com/mentoriaiac/iac-modulo-compute-gcp) | Terraform compute module for GCP |
+| [mentoriaiac/docker-packer-ansible](https://github.com/mentoriaiac/docker-packer-ansible) | A docker image to run Packer with Ansible provisioner | 
 
 ### Github Profile
 | | |
