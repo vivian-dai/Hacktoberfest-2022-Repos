@@ -1,5 +1,6 @@
 # Blacklist
 List of excluded repos that are now invalid towards Hacktoberfest pull requests:
+* [abhilashmnair/HacktoberFest2021](https://github.com/abhilashmnair/HacktoberFest2021)
 * [abhpd/hacktoberfest2021](https://github.com/abhpd/hacktoberfest2021)
 * [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
 * [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
@@ -62,4 +63,5 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [vijaygupta18/Hacktoberfest-2021](https://github.com/vijaygupta18/Hacktoberfest-2021)
 * [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 * [viralvaghela/hacktoberfest_2021](https://github.com/viralvaghela/hacktoberfest_2021)
+* [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)
 * [yashrajmani/Hacktoberfest2021](https://github.com/yashrajmani/Hacktoberfest2021)
