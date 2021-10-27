@@ -46,7 +46,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
 | [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
 | [CrackerSuman/Algorithms](https://github.com/CrackerSuman/Algorithms) | small algorithms repository |
-
+| [Knackie/algorithmshacktoberfest2021](https://github.com/Knackie/algorithmshacktoberfest2021) |  Repository for algorithms in various language |
 ### Bots
 | | |
 |--|--|
