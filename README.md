@@ -87,6 +87,8 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [mentoriaiac/template-modulo-terraform](https://github.com/mentoriaiac/template-modulo-terraform) | This repository must contain the basic structure for creating a terraform module. |
 | [mentoriaiac/iac-modulo-compute-gcp](https://github.com/mentoriaiac/iac-modulo-compute-gcp) | Terraform compute module for GCP |
 | [mentoriaiac/docker-packer-ansible](https://github.com/mentoriaiac/docker-packer-ansible) | A docker image to run Packer with Ansible provisioner | 
+| [mentoriaiac/glossario](https://github.com/mentoriaiac/glossario) | This project is intended to have a glossary of key words to assist IaC Mentoring participants. |
+| [mentoriaiac/Makefiles](https://github.com/mentoriaiac/Makefiles) | This project aims to provide a base Makefile to be imported at the beginning of the implementation Makefiles and templates of the organization of the IaC Mentoring. |
 
 ### Github Profile
 | | |
