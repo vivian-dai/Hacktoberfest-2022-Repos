@@ -27,4 +27,6 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [edusanketdk/HacktoberFest21](https://github.com/edusanketdk/HacktoberFest21)
 * [fineanmol/Hacktoberfest2021](https://github.com/fineanmol/Hacktoberfest2021)
 * [BalajiG2000/Code_Dump](https://github.com/BalajiG2000/Code_Dump)
+* [DecodersCommunity/Hacktoberfest2021](https://github.com/DecodersCommunity/Hacktoberfest2021)
+* [aitoss/HacktoberFest2021](https://github.com/aitoss/HacktoberFest2021)
 
