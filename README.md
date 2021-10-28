@@ -203,3 +203,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
+### Awesome CyberSec Resources
+| | |
+|--|--|
+| [theepiccode/Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) | |
