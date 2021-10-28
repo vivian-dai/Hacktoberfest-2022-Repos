@@ -141,6 +141,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
 | [shubham-2611/Hacker-News-Clone](https://github.com/shubham-2611/Hacker-News-Clone) | clone of HackerNews using the HackerNews API and React |
 | [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe) | web develop using html, css, JS |
+| [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
 
 ## Repo By Launguage
 ### C
@@ -184,6 +185,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot) | an open source multipurpose Discord bot written in Discord.js | 
 | [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects) | various projects and code snippets in JavaScript | 
 | [kokonior/NodeJS-Projects](https://github.com/kokonior/NodeJS-Projects) | projects and code snippets in Node |
+| [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
 
 ### Python
 | | |
