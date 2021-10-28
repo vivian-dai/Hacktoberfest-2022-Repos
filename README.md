@@ -148,6 +148,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 |--|--|
 | [divyanshugarg36/c-programs](https://github.com/divyanshugarg36/c-programs) | various programs in C |
 | [tushar-kumar/MyCodes](https://github.com/tushar-kumar/MyCodes/tree/main/C) | Basic C program that can help |
+| [mujacm/hacktoberfest-2021-c](https://github.com/mujacm/hacktoberfest-2021-c) | Algorithm In C |
 
 ### CPP (C++)
 | | |
@@ -176,6 +177,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [jvm-coder/Java_Programs](https://github.com/jvm-coder/Java_Programs) | various Java programs |
 | [atulanand26/myclassroom](https://github.com/atulanand26/myclassroom) | work on project to make that more useful |
 | [decode11/decode-1-rep](https://github.com/decode11/decode-1-rep) | decoding repo to contribute |
+| [mujacm/hacktoberfest-2021-java](https://github.com/mujacm/hacktoberfest-2021-java) | Algorithms in Java |
 
 
 ### JavaScript
@@ -202,3 +204,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
+### Markdown documentation(md)
+| | |
+|--|--| 
+| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | projects and code snippets in Node |
