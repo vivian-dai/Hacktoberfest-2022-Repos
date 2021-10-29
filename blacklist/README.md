@@ -38,6 +38,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [MarcosDaNight/Hacktoberfest-Baby-Steps](https://github.com/MarcosDaNight/Hacktoberfest-Baby-Steps)
 * [mhmzdev/Hacktoberfest-Flutter](https://github.com/mhmzdev/Hacktoberfest-Flutter)
 * [moviesmania30/Hacktoberfest-2021](https://github.com/moviesmania30/Hacktoberfest-2021.git)
+* [mujacm/hacktoberfest-2021-python](https://github.com/mujacm/hacktoberfest-2021-python)
 * [namishkhanna/hacktoberfest2021](https://github.com/namishkhanna/hacktoberfest2021)
 * [NetScape-Web/hacktoberfest2021](https://github.com/NetScape-Web/hacktoberfest2021)
 * [Nguyen17/Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
@@ -67,4 +68,3 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [vishnu2k60/HacktoberFest2021](https://github.com/vishnu2k60/HacktoberFest2021)
 * [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)
 * [yashrajmani/Hacktoberfest2021](https://github.com/yashrajmani/Hacktoberfest2021)
-* [mujacm/hacktoberfest-2021-python](https://github.com/mujacm/hacktoberfest-2021-python)

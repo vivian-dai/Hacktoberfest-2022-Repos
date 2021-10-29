@@ -31,6 +31,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [JavaScript](#javascript)
 * [Python](#python)
 * [TypeScript](#typescript)
+* [Markdown documentation](#markdown-documentation)
 </details>
 
 ## Repo By Topic
@@ -207,4 +208,4 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### Markdown documentation(md)
 | | |
 |--|--| 
-| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | projects and code snippets in Node |
+| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Markdown Documentation |
