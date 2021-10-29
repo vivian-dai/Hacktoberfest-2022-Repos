@@ -29,9 +29,10 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Markdown documentation](#markdown-documentation)
 * [Python](#python)
 * [TypeScript](#typescript)
-* [Markdown documentation](#markdown-documentation)
+
 </details>
 
 ## Repo By Topic
@@ -188,6 +189,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects) | various projects and code snippets in JavaScript | 
 | [kokonior/NodeJS-Projects](https://github.com/kokonior/NodeJS-Projects) | projects and code snippets in Node |
 
+### Markdown documentation(md)
+| | |
+|--|--| 
+| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Markdown Documentation |
+
 ### Python
 | | |
 |--|--|
@@ -205,7 +211,4 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
-### Markdown documentation(md)
-| | |
-|--|--| 
-| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Markdown Documentation |
+
