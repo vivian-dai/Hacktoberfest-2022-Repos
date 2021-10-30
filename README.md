@@ -64,8 +64,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 | | |
 |--|--|
-| [suppersource/nodejs-ecom-app](https://github.com/SupperSource/ajanistore) | Ecommerce application in node js |
-| [suppersource/commuter](https://github.com/SupperSource/commuter) | API client in electron |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make |  
 | [Magnesiaworld/Hacktoberfest_2021](https://github.com/Magnesiaworld/Hacktoberfest_2021) | random code in Python, C++, HTML, CSS | 
 | [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) | creative ways to wish someone happy birthday with code | 
@@ -188,6 +186,8 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### JavaScript
 | | |
 |--|--|
+| [SupperSource/Nodejs-Ecom-App](https://github.com/SupperSource/ajanistore) | Ecommerce application in node js |
+| [SupperSource/Commuter](https://github.com/SupperSource/commuter) | API client in electron |
 | [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot) | an open source multipurpose Discord bot written in Discord.js | 
 | [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects) | various projects and code snippets in JavaScript | 
 | [kokonior/NodeJS-Projects](https://github.com/kokonior/NodeJS-Projects) | projects and code snippets in Node |
