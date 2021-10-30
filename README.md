@@ -22,7 +22,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### Languages
 <details>
 <summary>Languages</summary>
-
+* [Assembly](#assembly)
 * [C](#c)
 * [C++](#cpp-c)
 * [Haskell](#haskell)
@@ -143,6 +143,13 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe) | web develop using html, css, JS |
 
 ## Repo By Launguage
+### Assembly
+| | |
+|--|--|
+| [roerohan/8086.js](https://github.com/roerohan/8086.js) | A basic web-based 8086 emulator built with Javascript rocket |
+| [itaysaadia/OLAFv2-CPU](https://github.com/itaysaadia/OLAFv2-CPU) | A virtual CPU, mini Operating System and Assembler |
+| [Mithunitp/Mips-Statistics-Guide](https://github.com/Mithunitp/Mips-Statistics-Guide) | A guide to solving statistical problems using MIPS assembly language |
+
 ### C
 | | |
 |--|--|
