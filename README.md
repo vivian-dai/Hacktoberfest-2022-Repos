@@ -31,7 +31,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [Markdown documentation](#markdown-documentation)
 * [Python](#python)
 * [TypeScript](#typescript)
 
@@ -98,6 +97,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [mentoriaiac/docker-packer-ansible](https://github.com/mentoriaiac/docker-packer-ansible) | A docker image to run Packer with Ansible provisioner | 
 | [mentoriaiac/glossario](https://github.com/mentoriaiac/glossario) | This project is intended to have a glossary of key words to assist IaC Mentoring participants. |
 | [mentoriaiac/Makefiles](https://github.com/mentoriaiac/Makefiles) | This project aims to provide a base Makefile to be imported at the beginning of the implementation Makefiles and templates of the organization of the IaC Mentoring. |
+| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Submit anything, even markdown files |
 
 ### Github Profile
 | | |
@@ -204,11 +204,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects) | various projects and code snippets in JavaScript | 
 | [kokonior/NodeJS-Projects](https://github.com/kokonior/NodeJS-Projects) | projects and code snippets in Node |
 | [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
-
-### Markdown documentation(md)
-| | |
-|--|--| 
-| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Markdown Documentation |
 
 ### Python
 | | |

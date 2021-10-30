@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing File
+    url: https://github.com/vivian-dai/Hacktoberfest-2021-Repos/blob/main/CONTRIBUTING.md
+    about: Make sure you've read this before doing anything
+  - name: Other Issues
+    url: https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues
+    about: Make sure you aren't opening duplicate issues
