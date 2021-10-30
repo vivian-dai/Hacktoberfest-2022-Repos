@@ -29,8 +29,10 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Markdown documentation](#markdown-documentation)
 * [Python](#python)
 * [TypeScript](#typescript)
+
 </details>
 
 ## Repo By Topic
@@ -46,7 +48,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
 | [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
 | [CrackerSuman/Algorithms](https://github.com/CrackerSuman/Algorithms) | small algorithms repository |
-
+| [Knackie/algorithmshacktoberfest2021](https://github.com/Knackie/algorithmshacktoberfest2021) |  Repository for algorithms in various language |
 ### Bots
 | | |
 |--|--|
@@ -84,6 +86,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 | [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev) | A list of animes every developer should watch. |
 | [GDSC-MITADT-Hacktoberfest2021/Hacktoberfest2021](https://github.com/GDSC-MITADT-Hacktoberfest2021/Hacktoberfest2021) | A Repo for CPP,Python, ML and Frontend Projects. |
+| [mentoriaiac/template-modulo-terraform](https://github.com/mentoriaiac/template-modulo-terraform) | This repository must contain the basic structure for creating a terraform module. |
+| [mentoriaiac/iac-modulo-compute-gcp](https://github.com/mentoriaiac/iac-modulo-compute-gcp) | Terraform compute module for GCP |
+| [mentoriaiac/docker-packer-ansible](https://github.com/mentoriaiac/docker-packer-ansible) | A docker image to run Packer with Ansible provisioner | 
+| [mentoriaiac/glossario](https://github.com/mentoriaiac/glossario) | This project is intended to have a glossary of key words to assist IaC Mentoring participants. |
+| [mentoriaiac/Makefiles](https://github.com/mentoriaiac/Makefiles) | This project aims to provide a base Makefile to be imported at the beginning of the implementation Makefiles and templates of the organization of the IaC Mentoring. |
 
 ### Github Profile
 | | |
@@ -136,6 +143,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
 | [shubham-2611/Hacker-News-Clone](https://github.com/shubham-2611/Hacker-News-Clone) | clone of HackerNews using the HackerNews API and React |
 | [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe) | web develop using html, css, JS |
+| [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
 
 ## Repo By Launguage
 ### C
@@ -143,6 +151,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 |--|--|
 | [divyanshugarg36/c-programs](https://github.com/divyanshugarg36/c-programs) | various programs in C |
 | [tushar-kumar/MyCodes](https://github.com/tushar-kumar/MyCodes/tree/main/C) | Basic C program that can help |
+| [mujacm/hacktoberfest-2021-c](https://github.com/mujacm/hacktoberfest-2021-c) | Algorithm In C |
 
 ### CPP (C++)
 | | |
@@ -171,6 +180,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [jvm-coder/Java_Programs](https://github.com/jvm-coder/Java_Programs) | various Java programs |
 | [atulanand26/myclassroom](https://github.com/atulanand26/myclassroom) | work on project to make that more useful |
 | [decode11/decode-1-rep](https://github.com/decode11/decode-1-rep) | decoding repo to contribute |
+| [mujacm/hacktoberfest-2021-java](https://github.com/mujacm/hacktoberfest-2021-java) | Algorithms in Java |
 
 
 ### JavaScript
@@ -179,6 +189,12 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot) | an open source multipurpose Discord bot written in Discord.js | 
 | [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects) | various projects and code snippets in JavaScript | 
 | [kokonior/NodeJS-Projects](https://github.com/kokonior/NodeJS-Projects) | projects and code snippets in Node |
+| [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
+
+### Markdown documentation(md)
+| | |
+|--|--| 
+| [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Markdown Documentation |
 
 ### Python
 | | |
@@ -190,10 +206,12 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [HowkMii/ProgrammingProblem](https://github.com/HowkMii/ProgrammingProblem) | solving coding and interview problems in Python |
 | [Chelsea31/xbox-scraper](https://github.com/Chelsea31/xbox-scraper) | simple web scraper to find xbox series x availability across shopping websites |
 | [Anjan50/Python](https://github.com/Anjan50/Python) | Various Projects and Scripts |
+| [SahanChan/Angampora-Srilankan-App](https://github.com/SahanChan/Angampora-Srilankan-App) | Angampora Sri Lankan Martial Arts Teaching Mobile App |
 
 ### TypeScript
 | | |
 |--|--|
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
+
 
