@@ -64,8 +64,8 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### General
 | | |
 |--|--|
-| [nodejs-ecom-app](https://github.com/SupperSource/ajanistore) | Ecommerce application in node js |
-| [commuter](https://github.com/SupperSource/commuter) | API client in electron |
+| [suppersource/nodejs-ecom-app](https://github.com/SupperSource/ajanistore) | Ecommerce application in node js |
+| [suppersource/commuter](https://github.com/SupperSource/commuter) | API client in electron |
 | [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) | compilation of possible coding projects to make |  
 | [Magnesiaworld/Hacktoberfest_2021](https://github.com/Magnesiaworld/Hacktoberfest_2021) | random code in Python, C++, HTML, CSS | 
 | [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) | creative ways to wish someone happy birthday with code | 
