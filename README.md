@@ -8,6 +8,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
 * [Bots](#bots)
+* [CyberSecurity](#cybersecurity)
 * [Games](#games)
 * [General](#general)
 * [Github Profile](#github-profile)
@@ -55,6 +56,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [Anuja2512/Answering_Machine](https://github.com/Anuja2512/Answering_Machine) | Create a chatbot using if-elif-else statements |
 | [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot) | an open source multipurpose Discord bot written in Discord.js |
 | [awsheeshh/Kanna-Chan](https://github.com/awsheeshh/Kanna-Chan) | multipurpose and open source Discord bot (verified) written in Discord.py |
+
+### CyberSecurity
+| | |
+|--|--|
+| [theepiccode/Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) | Awesome Resources Needed For Pentesters |
 
 ### Games
 | | |
