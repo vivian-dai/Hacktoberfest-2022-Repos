@@ -15,6 +15,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [Chandra-Sekhar-Bala/Hacktoberfest](https://github.com/Chandra-Sekhar-Bala/Hacktoberfest)
 * [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
 * [codedamn/codedamn-hacktoberfest-projects](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+* [Coder-forfun/Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
 * [CrackerSuman/Not-a-Excluded-Project](https://github.com/CrackerSuman/Not-a-Excluded-Project)
 * [dark-coder-cat/Hactoberfest2021](https://github.com/dark-coder-cat/Hacktoberfest2021)
 * [DhananjayPorwal/hacktoberfest2021](https://github.com/dark-cops://github.com/DhananjayPorwal/hacktoberfest2021)
