@@ -22,6 +22,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### Languages
 <details>
 <summary>Languages</summary>
+
 * [Assembly](#assembly)
 * [C](#c)
 * [C++](#cpp-c)
