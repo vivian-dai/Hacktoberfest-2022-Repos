@@ -186,7 +186,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### JavaScript
 | | |
 |--|--|
-| [SupperSource/Nodejs-Ecom-App](https://github.com/SupperSource/ajanistore) | Ecommerce application in node js |
+| [SupperSource/AjaniStore](https://github.com/SupperSource/ajanistore) | Ecommerce application in node js |
 | [SupperSource/Commuter](https://github.com/SupperSource/commuter) | API client in electron |
 | [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot) | an open source multipurpose Discord bot written in Discord.js | 
 | [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects) | various projects and code snippets in JavaScript | 
