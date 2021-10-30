@@ -58,7 +58,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 ### CyberSecurity
 | | |
 |--|--|
-| [theepiccode/Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) | |
+| [theepiccode/Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) | Awesome Resources Needed For Pentesters |
 
 ### Games
 | | |
