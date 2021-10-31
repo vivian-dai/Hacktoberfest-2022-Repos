@@ -206,6 +206,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [kokonior/Javascript-Projects](https://github.com/kokonior/Javascript-Projects) | various projects and code snippets in JavaScript | 
 | [kokonior/NodeJS-Projects](https://github.com/kokonior/NodeJS-Projects) | projects and code snippets in Node |
 | [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
+| [sutin1234/angular-12-graphql-subscription](https://github.com/sutin1234/angular-12-graphql-subscription) | build angular 12 graphQL & apollo server nodejs |
 
 ### Python
 | | |
