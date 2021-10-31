@@ -18,6 +18,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [Machine Learning](#machine-learning)
 * [Resources](#resources)
 * [Web Dev](#web-dev)
+* [Hackerrank Solutions](#hackerrank-solutions)
 </details>
 
 ### Languages
@@ -151,6 +152,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [shubham-2611/Hacker-News-Clone](https://github.com/shubham-2611/Hacker-News-Clone) | clone of HackerNews using the HackerNews API and React |
 | [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe) | web develop using html, css, JS |
 | [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
+
+### Hackerrank Solutions
+| | |
+|--|--|
+| [Riddhi9570/HackerrankPracticeProblems](https://github.com/Riddhi9570/HackerrankPracticeProblems) | solutions to hackerrank practice problems |
 
 ## Repo By Launguage
 ### Assembly
