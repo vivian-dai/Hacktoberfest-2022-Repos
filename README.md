@@ -12,6 +12,7 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 * [Games](#games)
 * [General](#general)
 * [Github Profile](#github-profile)
+* [Hackerrank Solutions](#hackerrank-solutions)
 * [Linux](#linux)
 * [Themes](#themes)
   * [VSCode](#vscode)
@@ -108,6 +109,11 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | displays current and longest Github activity streak | 
 | [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) | updates Github README to show most recent Github activity | 
 | [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | updates Github README to show latest blog posts from various sources |
+
+### Hackerrank Solutions
+| | |
+|--|--|
+| [Riddhi9570/HackerrankPracticeProblems](https://github.com/Riddhi9570/HackerrankPracticeProblems) | solutions to hackerrank practice problems |
 
 ### Linux
 | | |
