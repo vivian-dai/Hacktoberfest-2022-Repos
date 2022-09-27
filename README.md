@@ -148,7 +148,6 @@ A compilation of all valid repos for Hacktoberfest 2021. A list of invalid repos
 | | |
 |--|--|
 | [avinash201199/stopwatch](https://github.com/avinash201199/stopwatch) | stopwatch with HTML, CSS, JS | 
-| [Kigamekun/TTM](https://github.com/Kigamekun/TTM) | TO The Moon Landing Page | 
 | [mykartadmin/TailwindReactBoilerplate](https://github.com/mykartadmin/TailwindReactBoilerplate) | startup setup for tailwind and react | 
 | [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish) | snippets of HTML, CSS, JS things | 
 | [mrbyyn/simple-web-project-collection](https://github.com/mrbyyn/simple-web-project-collection) | various web projects | 
