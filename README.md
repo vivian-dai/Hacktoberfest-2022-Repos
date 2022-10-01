@@ -49,7 +49,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms) | various algorithms and data structures as well as solution code to some CP platforms | 
 | [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos) | sorting algorithms in various languages | 
 | [hhhrrrttt222111/Patterns](https://github.com/hhhrrrttt222111/Patterns) | patterns in various languages |
-| [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
+| [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | Repository of common algorithms implemented in C++ |
 | [CrackerSuman/Algorithms](https://github.com/CrackerSuman/Algorithms) | small algorithms repository |
 | [Knackie/algorithmshacktoberfest2021](https://github.com/Knackie/algorithmshacktoberfest2021) |  Repository for algorithms in various language |
 ### Bots
@@ -79,7 +79,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [Abhinandan323/Programming-notes](https://github.com/Abhinandan323/Programming-notes) | various different algorithms and small projects in C++, C, Java, and Python | 
 | [5h0bh4nk/FizzBuzz-Hacktoberfest-2021](https://github.com/5h0bh4nk/FizzBuzz-Hacktoberfest-2021) | fizzbuzz is various different languages | 
 | [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub) | recursive solutions to any problem in any language | 
-| [many-passwords](https://github.com/many-passwords) | aimts to collect default passwords of various devices and sites | 
+| [many-passwords](https://github.com/many-passwords) | aims to collect default passwords of various devices and sites | 
 | [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation) | character name generation | 
 | [Learn-Write-Repeat/Hacktoberfest-Contribution](https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution) | contribution can be from any topic like your mini-project, algorithms, solution to coding problem, etc. | 
 | [PraSarOG/Hacktoberfest-21](https://github.com/PraSarOG/Hacktoberfest-21) | any program in any programming language |
@@ -143,7 +143,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [abhishek-dhnma/Vinent-Van-VsCode-theme](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme) | a VSCode theme |
-| [musm/min-tomorrow-theme](https://github.com/musm/min-tomorrow-theme) | |
+| [musm/min-tomorrow-theme](https://github.com/musm/min-tomorrow-theme) | a minimal theme for VS Code based on min and tomorrow themes|
 
 ### Web Dev
 | | |
@@ -178,7 +178,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 ### CPP (C++)
 | | |
 |--|--|
-| [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp) | self explanatory title |
+| [amritansh22/Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp) |  DSA algorithms repository |
 | [iamAnki/CPP-Programs-](https://github.com/iamAnki/CPP-Programs-) | C++ algorithms/programs |
 | [fauziajalal/city-guessing-game](https://github.com/fauziajalal/city-guessing-game) | A game in which computer will select a random Indian city name and you have to guess next city name based on the last letter of current city name. |
 
@@ -236,6 +236,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 ### TypeScript
 | | |
 |--|--|
-| [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
+| [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | A CLI to help you generate your web project |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
