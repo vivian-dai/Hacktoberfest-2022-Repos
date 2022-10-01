@@ -33,8 +33,8 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
-* [TypeScript](#typescript)
 * [Racket](#racket)
+* [TypeScript](#typescript)
 
 </details>
 
