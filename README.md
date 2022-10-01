@@ -34,6 +34,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [JavaScript](#javascript)
 * [Python](#python)
 * [TypeScript](#typescript)
+* [Racket](#racket)
 
 </details>
 
@@ -233,4 +234,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
 
-
+### Racket
+| | |
+|--|--|
+| [Bobliuuu/RacketResources](https://github.com/Bobliuuu/RacketResources) | A repository of programs impleented in Racket |
