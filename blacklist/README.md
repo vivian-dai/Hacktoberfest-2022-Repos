@@ -47,7 +47,6 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [NetScape-Web/hacktoberfest2021](https://github.com/NetScape-Web/hacktoberfest2021)
 * [Nguyen17/Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In)
 * [nitin-1926/Hacktober-Festt](https://github.com/nitin-1926/Hacktober-Festt)
-* [Open-Source-Contributors-JSS/Hacktoberfest2019](https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019)
 * [Paritosh5876/Hacktoberfest2021](https://github.com/Paritosh5876/Hacktoberfest2021)
 * [prathamesh-borse/Hacktoberfest-2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 * [Raghav-Bajaj/HacktoberFest2021](https://github.com/Raghav-Bajaj/HacktoberFest2021.git)
