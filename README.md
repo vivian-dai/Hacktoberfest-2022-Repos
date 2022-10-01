@@ -33,6 +33,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
+* [Racket](#racket)
 * [TypeScript](#typescript)
 
 </details>
@@ -227,10 +228,14 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [Anjan50/Python](https://github.com/Anjan50/Python) | Various Projects and Scripts |
 | [SahanChan/Angampora-Srilankan-App](https://github.com/SahanChan/Angampora-Srilankan-App) | Angampora Sri Lankan Martial Arts Teaching Mobile App |
 
+### Racket
+| | |
+|--|--|
+| [Bobliuuu/RacketResources](https://github.com/Bobliuuu/RacketResources) | A repository of programs impleented in Racket |
+
 ### TypeScript
 | | |
 |--|--|
 | [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
-
 
