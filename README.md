@@ -33,6 +33,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
+* [Racket](#racket)
 * [TypeScript](#typescript)
 
 </details>
@@ -226,6 +227,11 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [pyGuru123/HackPython-21](https://github.com/pyGuru123/HackPython-21) | various different projects and algorithms in Python including web scraping, Tkinter, data analysis, and more | 
 | [SahanChan/Angampora-Srilankan-App](https://github.com/SahanChan/Angampora-Srilankan-App) | Angampora Sri Lankan Martial Arts Teaching Mobile App |
 | [shashwat211/spaceShooter](https://github.com/shashwat211/spaceShooter) | classic space shooter game in Python | 
+
+### Racket
+| | |
+|--|--|
+| [Bobliuuu/RacketResources](https://github.com/Bobliuuu/RacketResources) | A repository of programs impleented in Racket |
 
 ### TypeScript
 | | |
