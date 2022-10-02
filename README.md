@@ -49,7 +49,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos) | sorting algorithms in various languages | 
 | [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) | algorithms on AI, CP, crypto, quantum, and more in C, C++, Java, JS, Swift, Python, Go, and more | 
 | [shivprime94/Data-Structure-Algorithms](https://github.com/shivprime94/Data-Structure-Algorithms) | various algorithms and data structures as well as solution code to some CP platforms | 
-| [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
+| [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | This  is  a  repository having  implementation of  algorithms  and questions in different languages  |
 | [TheAlgorithms](https://github.com/TheAlgorithms) | algorithm implementations in various different languages, most repos can count towards Hacktoberfest | 
 | [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) | search, sort, math, crypto, geometry, graph theory, DP, DS, and more types of algorithms in various languages | 
 ### Back End
