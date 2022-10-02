@@ -133,7 +133,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 |--|--|
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | compilation of programming e-books | 
 | [ kaydee001/learn-programming-resources](https://github.com/kaydee001/learn-programming-resources) | compilation of learning to program resources |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | a list of public APIs | 
 | [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | compilation of programming websites |
 | [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) | a list of swag that developers can get | 
 | [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) | a guide on contributing to open source as well as a list of beginner friendly projects | 
