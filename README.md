@@ -142,7 +142,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [abhishek-dhnma/Vinent-Van-VsCode-theme](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme) | a VSCode theme |
-| [musm/min-tomorrow-theme](https://github.com/musm/min-tomorrow-theme) | |
+| [musm/min-tomorrow-theme](https://github.com/musm/min-tomorrow-theme) | This is a minimal theme for VS Code based on a blend of Min and Tomorrow |
 
 ### Web Dev
 | | |
@@ -236,6 +236,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [chankruze/mwbr](https://github.com/chankruze/mwbr) | This is a very basic setup for a react app |
-| [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | |
+| [LBBO/generate-web-app](https://github.com/LBBO/generate-web-app) | This  is CLI to help to geting  started with  web project |
 
 
