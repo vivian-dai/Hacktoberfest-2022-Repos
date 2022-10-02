@@ -165,7 +165,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf) | cool website styling trick | 
 | [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
 
-## Repo By Launguage
+## Repo By Language
 ### Assembly
 | | |
 |--|--|
