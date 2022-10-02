@@ -55,7 +55,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 ### Back End
 | | |
 |--|--|
-| [react js](https://github.com/JedWatson/react-select)| This is  The Select control for React. Initially built for use in KeystoneJS|
+
 
 ### Bots
 | | |
