@@ -56,6 +56,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [react js](https://github.com/JedWatson/react-select)
+
 ### Bots
 | | |
 |--|--|
