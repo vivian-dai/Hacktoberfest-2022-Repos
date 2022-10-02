@@ -1,4 +1,5 @@
 # Hacktoberfest-2022-Repos
+A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos can be found here and a list of repos that has historically been good but seem inactive can be found here.
 
 ## Table of Contents
 ### Topics
@@ -6,6 +7,7 @@
 <summary>Topics</summary>
 
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
+* [Backend](#back-end)
 * [Bots](#bots)
 * [CyberSecurity](#cybersecurity)
 * [Games](#games)
@@ -18,7 +20,6 @@
 * [Machine Learning](#machine-learning)
 * [Resources](#resources)
 * [Web Dev](#web-dev)
-* [Backend](#back-end)
 </details>
 
 ### Languages
