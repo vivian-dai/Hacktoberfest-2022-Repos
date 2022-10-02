@@ -53,6 +53,8 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [TARANG0503/DSA-Practice](https://github.com/TARANG0503/DSA-Practice) | |
 | [TheAlgorithms](https://github.com/TheAlgorithms) | algorithm implementations in various different languages, most repos can count towards Hacktoberfest | 
 | [ZoranPandovski/al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) | search, sort, math, crypto, geometry, graph theory, DP, DS, and more types of algorithms in various languages | 
+### Back End
+| [react js](https://github.com/JedWatson/react-select)
 ### Bots
 | | |
 |--|--|
@@ -160,8 +162,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish) | snippets of HTML, CSS, JS things | 
 | [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf) | cool website styling trick | 
 | [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
-### Back End
-| [react js](https://github.com/JedWatson/react-select)
 
 ## Repo By Launguage
 ### Assembly
