@@ -1,6 +1,5 @@
 # Hacktoberfest-2022-Repos
-A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos can be found here and a list of repos that has historically been good but seem inactive can be found here.
-
+A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos can be found [here](./blacklist/) and a list of repos that has historically been good but seem inactive can be found [here](./archive/).
 ## Table of Contents
 ### Topics
 <details>
