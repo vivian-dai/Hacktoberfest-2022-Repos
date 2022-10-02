@@ -99,7 +99,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation) | character name generation | 
 | [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Submit anything, even markdown files |
 | [PraSarOG/Hacktoberfest-21](https://github.com/PraSarOG/Hacktoberfest-21) | any program in any programming language |
-| [utkarsh1311/webdevpractice](https://github.com/utkarsh1311/web-dev-practice) | collection of simple programs created with js, HTML, CSS and more. Open for programming as well as documentation tasks.  |
 | [varunherlekar/lets-do-it](https://github.com/varunherlekar/lets-do-it) | Live HTML, CSS & Js Todo web-app |
 | [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 | [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) | creative ways to wish someone happy birthday with code | 
@@ -178,7 +177,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 |--|--|
 | [divyanshugarg36/c-programs](https://github.com/divyanshugarg36/c-programs) | various programs in C |
 | [mujacm/hacktoberfest-2021-c](https://github.com/mujacm/hacktoberfest-2021-c) | Algorithm In C |
-| [tushar-kumar/MyCodes](https://github.com/tushar-kumar/MyCodes/tree/main/C) | Basic C program that can help |
 
 ### CPP (C++)
 | | |
