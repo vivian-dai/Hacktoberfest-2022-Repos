@@ -156,6 +156,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [avinash201199/stopwatch](https://github.com/avinash201199/stopwatch) | stopwatch with HTML, CSS, JS | 
 | [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
 | [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) | coding frontend templates using HTML, CSS, JS. |
+| [devicons/devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing & development tools |
 | [mrbyyn/simple-web-project-collection](https://github.com/mrbyyn/simple-web-project-collection) | various web projects | 
 | [mykartadmin/TailwindReactBoilerplate](https://github.com/mykartadmin/TailwindReactBoilerplate) | startup setup for tailwind and react | 
 | [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe) | web develop using html, css, JS |
