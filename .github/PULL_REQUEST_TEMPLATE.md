@@ -2,6 +2,7 @@
 <!--biefly summarize what you did-->
 ## Checklist
 <!--put an "X" in any check points you pass-->
+- [ ] I understand that if I don't put a description or check all of these points, the pull request will not even be looked at
 - [ ] I have read the [contributing guidelines](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/blob/main/CONTRIBUTING.md)
 - [ ] If changes are requested, I understand my pull request will not be merged until all changes are made
 - [ ] My branch is up to date with `main`
