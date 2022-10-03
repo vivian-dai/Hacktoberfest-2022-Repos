@@ -156,6 +156,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
 | [Coders-Evoke-Community/Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) | coding frontend templates using HTML, CSS, JS. |
 | [devicons/devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing & development tools |
+| [KYKY62/RestauranWeb-HTML](https://github.com/KYKY62/RestauranWeb-HTML) | simple website started with HTML ,CSS and bootstrap. |
 | [mrbyyn/simple-web-project-collection](https://github.com/mrbyyn/simple-web-project-collection) | various web projects | 
 | [mykartadmin/TailwindReactBoilerplate](https://github.com/mykartadmin/TailwindReactBoilerplate) | startup setup for tailwind and react | 
 | [saloni-15/Heel2Toe](https://github.com/saloni-15/Heel2Toe) | web develop using html, css, JS |
@@ -195,6 +196,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [kokonior/HTML-Projects](https://github.com/kokonior/HTML-Projects) | various small HTML projects |
+| [KYKY62/RestauranWeb-HTML](https://github.com/KYKY62/RestauranWeb-HTML) | simple website started with HTML ,CSS and bootstrap. |
 | [Linux-User-Group/hacktoberfest2021-HTML](https://github.com/Linux-User-Group/hacktoberfest2021-HTML) | good repository to learn |
 | [RitwikSachdeva/csneeds](https://github.com/RitwikSachdeva/csneeds) | various projects to contribute |
 
