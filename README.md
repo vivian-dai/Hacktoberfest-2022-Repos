@@ -230,7 +230,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [HowkMii/ProgrammingProblem](https://github.com/HowkMii/ProgrammingProblem) | solving coding and interview problems in Python |
 | [IEEE-VIT/concy-bot](https://github.com/IEEE-VIT/concy-bot) | a Python Discord bot | 
 | [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects) | various projects and snippets of code in Python | 
-| [pyGuru123/HackPython-21](https://github.com/pyGuru123/HackPython-21) | various different projects and algorithms in Python including web scraping, Tkinter, data analysis, and more | 
 | [SahanChan/Angampora-Srilankan-App](https://github.com/SahanChan/Angampora-Srilankan-App) | Angampora Sri Lankan Martial Arts Teaching Mobile App |
 | [shashwat211/spaceShooter](https://github.com/shashwat211/spaceShooter) | classic space shooter game in Python | 
 
