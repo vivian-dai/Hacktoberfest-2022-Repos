@@ -163,6 +163,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [siddhi-244/Embellish](https://github.com/siddhi-244/Embellish) | snippets of HTML, CSS, JS things | 
 | [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf) | cool website styling trick | 
 | [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
+| [zero-to-mastery/webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022) | A collection of simple plane html, css, vannila js cool web pages. |
 
 ## Repo By Language
 ### Assembly
