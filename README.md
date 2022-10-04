@@ -16,7 +16,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [Leetcode Solutions](#Leetcode-solutions)
 * [Linux](#linux)
 * [Themes](#themes)
-  ]* [VSCode](#vscode)
+  * [VSCode](#vscode)
 * [Machine Learning](#machine-learning)
 * [Resources](#resources)
 * [Web Dev](#web-dev)
