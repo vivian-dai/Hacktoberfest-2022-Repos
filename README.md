@@ -13,8 +13,9 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [General](#general)
 * [Github Profile](#github-profile)
 * [Hackerrank Solutions](#hackerrank-solutions)
-* [Leetcode Solutions](#Leetcode-solutions)
+* [Leetcode Solutions](#leetcode-solutions)
 * [Linux](#linux)
+* [Git and Github](#git-and-github) 
 * [Themes](#themes)
   * [VSCode](#vscode)
 * [Machine Learning](#machine-learning)
@@ -126,11 +127,17 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [Vanshika2063/Leetcode-Questions](https://github.com/Vanshika2063/Leetcode-Questions) | Solutions to various problems from Leetcode. |
+| [wingkwong/leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) | A Leetcode guide book covering Leetcode problems based on their topics. |
 
 ### Linux
 | | |
 |--|--|
 | [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) | a guidebook for Linux commands |
+
+### Git and Github
+| | |
+|--|--|
+| [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) | Git and Github cheat sheet |
 
 ### Machine Learning
 | | |
