@@ -164,6 +164,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 ### Web Dev
 | | |
 |--|--|
+| [https://mega.nz/folder/fxEETZZA#B9MypAJ7ZFp6Z1_EGYBIKw/folder/L5VGkJYQ] | Full Stack Development |
 | [anurag-crypto/Awesome-web-components](https://github.com/anurag-crypto/Awesome-web-components) | fun frontend stuff | 
 | [avinash201199/stopwatch](https://github.com/avinash201199/stopwatch) | stopwatch with HTML, CSS, JS | 
 | [charukalyani/netflix_clone](https://github.com/charukalyani/netflix_clone) | a Netflix clone created with CodeSandbox |
