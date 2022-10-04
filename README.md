@@ -121,6 +121,11 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 |--|--|
 | [Riddhi9570/HackerrankPracticeProblems](https://github.com/Riddhi9570/HackerrankPracticeProblems) | solutions to hackerrank practice problems |
 
+### Leetcode Solutions
+| | |
+|--|--|
+| [Vanshika2063/Leetcode-Questions](https://github.com/Vanshika2063/Leetcode-Questions) | Solutions to various problems from Leetcode. |
+
 ### Linux
 | | |
 |--|--|
