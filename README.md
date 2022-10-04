@@ -11,10 +11,11 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [CyberSecurity](#cybersecurity)
 * [Games](#games)
 * [General](#general)
+* [Git and Github](#git-and-github)
 * [Github Profile](#github-profile)
 * [Hackerrank Solutions](#hackerrank-solutions)
-* [Leetcode Solutions](#Leetcode-solutions)
-* [Linux](#linux)
+* [Leetcode Solutions](#leetcode-solutions)
+* [Linux](#linux) 
 * [Themes](#themes)
   * [VSCode](#vscode)
 * [Machine Learning](#machine-learning)
@@ -106,6 +107,11 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub) | recursive solutions to any problem in any language | 
 
+### Git and Github
+| | |
+|--|--|
+| [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) | Git and Github cheat sheet |
+
 ### Github Profile
 | | |
 |--|--|
@@ -126,6 +132,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [Vanshika2063/Leetcode-Questions](https://github.com/Vanshika2063/Leetcode-Questions) | Solutions to various problems from Leetcode. |
+| [wingkwong/leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) | A Leetcode guide book covering Leetcode problems based on their topics. |
 
 ### Linux
 | | |
