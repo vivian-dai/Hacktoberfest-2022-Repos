@@ -11,11 +11,11 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [CyberSecurity](#cybersecurity)
 * [Games](#games)
 * [General](#general)
+* [Git and Github](#git-and-github)
 * [Github Profile](#github-profile)
 * [Hackerrank Solutions](#hackerrank-solutions)
 * [Leetcode Solutions](#leetcode-solutions)
-* [Linux](#linux)
-* [Git and Github](#git-and-github) 
+* [Linux](#linux) 
 * [Themes](#themes)
   * [VSCode](#vscode)
 * [Machine Learning](#machine-learning)
@@ -107,6 +107,11 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub) | recursive solutions to any problem in any language | 
 
+### Git and Github
+| | |
+|--|--|
+| [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) | Git and Github cheat sheet |
+
 ### Github Profile
 | | |
 |--|--|
@@ -133,11 +138,6 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | | |
 |--|--|
 | [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) | a guidebook for Linux commands |
-
-### Git and Github
-| | |
-|--|--|
-| [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) | Git and Github cheat sheet |
 
 ### Machine Learning
 | | |
