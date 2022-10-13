@@ -62,6 +62,7 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [rjkalash/hacktoberfest2021](https://github.com/rjkalash/hacktoberfest2021)
 * [ron2111/Awesome-Projects-Collection](https://github.com/ron2111/Awesome-Projects-Collection)
 * [Sangwan5688/Hacktoberfest2021](https://github.com/Sangwan5688/Hacktoberfest2021)
+* [sayandas722/OOPS.code](https://github.com/sayandas722/OOPS.code)
 * [ShimilSAbraham/Hacktoberfest-2021](https://github.com/ShimilSAbraham/Hacktoberfest-2021)
 * [shivaylamba/Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest)
 * [Showndarya/Hacktoberfest](https://github.com/Showndarya/Hacktoberfest)
