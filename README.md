@@ -19,7 +19,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [Leetcode Solutions](#leetcode-solutions)
 * [Linux](#linux) 
 * [Themes](#themes)
-  * [VSCode](#vscode)
+* [VSCode](#vscode)
 * [Machine Learning](#machine-learning)
 * [Resources](#resources)
 * [Web Dev](#web-dev)
@@ -108,6 +108,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) | creative ways to wish someone happy birthday with code | 
 | [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub) | recursive solutions to any problem in any language | 
+| [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers) | A Collection Of All Free Student Offers & Discount while you are a student. |
 
 ### Git and Github
 | | |
@@ -154,7 +155,8 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [ kaydee001/learn-programming-resources](https://github.com/kaydee001/learn-programming-resources) | compilation of learning to program resources |
 | [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | compilation of programming websites |
 | [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) | a list of swag that developers can get | 
-| [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) | a guide on contributing to open source as well as a list of beginner friendly projects | 
+| [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) | a guide on contributing to open source as well as a list of beginner friendly projects |
+| [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers) | A Collection Of All Free Student Offers & Discount while you are a student. |
 
 ### Themes
 #### VSCode
@@ -180,6 +182,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf](https://github.com/sonaiX69/dfgdfnfdgndfbdfbsrdbddrhf) | cool website styling trick | 
 | [TogaTech/helpful.js](https://github.com/TogaTech/helpful.js) | A collection of helpful JavaScript functions |
 | [zero-to-mastery/webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022) | A collection of simple plane html, css, vannila js cool web pages. |
+
 
 ## Repo By Language
 ### Assembly
