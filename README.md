@@ -19,7 +19,7 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 * [Leetcode Solutions](#leetcode-solutions)
 * [Linux](#linux) 
 * [Themes](#themes)
-* [VSCode](#vscode)
+    * [VSCode](#vscode)
 * [Machine Learning](#machine-learning)
 * [Resources](#resources)
 * [Web Dev](#web-dev)
@@ -103,12 +103,13 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [Mimic-Tools/name-generation](https://github.com/Mimic-Tools/name-generation) | character name generation | 
 | [mujacm/hacktoberfest-2021-md](https://github.com/mujacm/hacktoberfest-2021-md) | Submit anything, even markdown files |
 | [PraSarOG/Hacktoberfest-21](https://github.com/PraSarOG/Hacktoberfest-21) | any program in any programming language |
+| [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers) | A Collection Of All Free Student Offers & Discount while you are a student. |
 | [varunherlekar/lets-do-it](https://github.com/varunherlekar/lets-do-it) | Live HTML, CSS & Js Todo web-app |
 | [vikhyatsingh123/Naruto-Shippuden](https://github.com/vikhyatsingh123/Naruto-Shippuden) | add your favorite character card from naruto |
 | [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) | creative ways to wish someone happy birthday with code | 
 | [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021) | any program in any programming language |
 | [zeel-codder/Recursion-Hub](https://github.com/zeel-codder/Recursion-Hub) | recursive solutions to any problem in any language | 
-| [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers) | A Collection Of All Free Student Offers & Discount while you are a student. |
+
 
 ### Git and Github
 | | |
@@ -154,9 +155,10 @@ A compilation of all valid repos for Hacktoberfest 2022. A list of invalid repos
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | compilation of programming e-books | 
 | [ kaydee001/learn-programming-resources](https://github.com/kaydee001/learn-programming-resources) | compilation of learning to program resources |
 | [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | compilation of programming websites |
+| [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers) | A Collection Of All Free Student Offers & Discount while you are a student. |
 | [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) | a list of swag that developers can get | 
 | [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021) | a guide on contributing to open source as well as a list of beginner friendly projects |
-| [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers) | A Collection Of All Free Student Offers & Discount while you are a student. |
+
 
 ### Themes
 #### VSCode
