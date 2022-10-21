@@ -83,3 +83,4 @@ List of excluded repos that are now invalid towards Hacktoberfest pull requests:
 * [vishnu2k60/HacktoberFest2021](https://github.com/vishnu2k60/HacktoberFest2021)
 * [wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)
 * [yashrajmani/Hacktoberfest2021](https://github.com/yashrajmani/Hacktoberfest2021)
+* [maheshjainckd/Hacktoberfest2022-for-everyone](https://github.com/yashrajmani/Hacktoberfest2021)
